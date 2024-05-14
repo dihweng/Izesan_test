@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-
 
 class MyHomePage extends StatefulWidget {
 
@@ -166,4 +164,3 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-
